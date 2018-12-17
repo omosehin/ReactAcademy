@@ -1,2 +1,0 @@
-# ReactAcademy
-Created with CodeSandbox
